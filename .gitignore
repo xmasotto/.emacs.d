@@ -1,0 +1,9 @@
+.*/*
+*~
+auto-save-list/*
+autosaves/*
+backups/*
+recentf
+tramp
+url/*
+elpa/*
